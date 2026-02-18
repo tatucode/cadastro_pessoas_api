@@ -15,7 +15,7 @@ Projeto desenvolvido com estrutura em camadas, seguindo boas práticas de back-e
 1 - Clonar repositório
 
 git clone
-https://github.com/SEU-USUARIO/cadastro_pessoas_api.git
+https://github.com/tatucode/cadastro_pessoas_api.git
 cd cadastro_pessoas_api
 
 2 - Criar ambiente virtual
